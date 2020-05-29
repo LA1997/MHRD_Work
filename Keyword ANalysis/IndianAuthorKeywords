@@ -1,0 +1,112 @@
+['blind pedestrian',
+ 'Cognitive system engineering',
+ 'Braille',
+ 'assistive technologies for persons with disabilities',
+ 'Wayfinding',
+ 'Assistive technology',
+ 'MWSM',
+ 'accessible drawings',
+ 'face recognition',
+ 'open source software',
+ 'multimodal sensors',
+ 'crowdsourcing',
+ 'Multiresolution processing',
+ 'AHP',
+ 'Math expression',
+ 'User model',
+ 'Digital TV',
+ 'radio-frequency identification (RFID) tags',
+ 'Wireless sensor networks',
+ 'Medication management',
+ 'White cane',
+ 'Self-learning of mathematics',
+ 'object detection',
+ 'Computer vision',
+ 'administrative processes',
+ 'ultrasonic transducers',
+ 'obstacle avoidance',
+ 'electronic aids to daily living',
+ 'haptic zooming',
+ 'cognitive maps',
+ 'Accessibility',
+ 'Unity',
+ 'smartphone',
+ 'foreign language learning',
+ 'Head-mounted display',
+ 'Sensory substitution',
+ 'evaluation/methodology',
+ 'ClickStream',
+ 'locomotion interface devices for learning',
+ 'Google Project Tango',
+ 'Blind',
+ 'automata model',
+ 'Digital infrastructure',
+ 'wearable system',
+ 'walking assistants',
+ 'navigation',
+ 'Review',
+ 'visually impaired']
+
+
+
+
+
+
+
+
+
+
+
+Walking Assistant and Navigation Facilities
+—The development of walking assistants for visually impaired people has become a prominent research area in India due to the rapid growth of these individuals in recent decades and difficulties they face. This functionality is based on various field including sensors, computer vision, and smartphone-based walking assistants. The main idea has been to enhance the utility of traditional navigational aids to produce solutions that are more reliable. The proposed designs involves Electronic Travel Aids (ETAs), Electronic Orientation Aids (EOAs), and Position Locator Devices (PLDs). 
+There has been a constant development of systems to facilitate real-time obstacle detection and avoidance application for visually impaired people(VIP) individuals to assist them in navigating independently in indoors environments. Some researches also proposed a new multiobject recognition framework. It consists of coarsely checking the presence of multiple objects in a portable camera-grabbed image at a considered indoor site.
+
+Use of Assistive Technology for Teaching-Learning and Administrative Processes for the Visually Impaired People: Some new features are proposed to facilitate easy communication for VIP with each other and also with other people. Along with that, advanced assistive technology is developed to help a person improve his administrative capabilities. These devices can help the administrator with augmentive communication when his spoken communication is not sufficient.
+
+The explosive growth of visual data both online and offline in private and public repositories has led to urgent requirements for better ways to index, search, retrieve, process and manage visual content. Automatic methods for generating image descriptions can help with all these tasks, and also play an important role in assistive technology for the visually impaired.
+
+A comprehensive digital environment for visually impaired students
+The study developed an information system DigitVaran to assist visually impaired undergraduate students in India. The system will help them to access the study materials and make aware of various extracurricular activities of the institutions. An increasing amount of information content used in school, work, and everyday living is presented in graphical form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International
+Assistive Navigation Systems
+With the help of affordable haptic accessories, it helps the visually impaired people to navigate indoor without using GPS and wireless beacons. In the meantime, the advanced path planning in the system benefits the visually impaired navigation since it minimizes the possibility of collision in application[10]. Also, some work has been done on the wearable navigation system for visually impaired and blind pedestrians that combines a global positioning system (GPS) for user outdoor localization and tactile-foot stimulation for information presentation. Real-time GPS data provided by a smartphone are processed by dedicated navigation software to determine the directions to a destination. Navigational directions are then encoded as vibrations and conveyed to the user via a tactile display that inserts into the shoe. [23]
+
+Also, there has been some researches offering an alternative mode of interaction with the surrounding 3-D space to the visually impaired for collision free navigation. The first task is to detect obstacles in close proximity, and motion patterns in image sequences, both important issues for a safe navigation in a 3-D dynamic space. The second task is to efficiently represent the information of the captured static and dynamic visual scenes as 3-D detectable patterns of vibrations applied on the human body to create a 3-D sensation of the space during navigation.[93]
+
+Some navigation aids also aimed at developing a multiple-sensor-based hand-free device as a navigation aid to detect obstacles. The developed device incorporates a sensor unit and a feedback unit with either a wired or a wireless data communication set-up using a shoe based prototype.[115]
+
+Assistive Technologies for HealthCare
+
+Medication management can often be a challenging task for individuals adhering to a strict regimen. In response, a number of technologies have been developed to remind the user when to take medication and to record how often medications have been consumed. Many of these technologies have not been designed with visually impaired users in mind, making the process of access more difficult for individuals with sight loss. This study serves to identify the day-to-day issues faced by individuals with visual impairments when managing multiple medications. Strategies to identify, locate and consume medications are described. Findings from this study offer guidance to developers interested in creating more inclusive medication management solutions.[43] LEGO Mindstorms NXT for elderly and visually impaired people in need for elderly people who require assistance within their household as assistive-robot to facilitate a low-cost solution for a highly demanding health circumstance.[68]
+
+As patient-centered pharmacists, we need to understand the challenges faced by our patients with low vision and tailor pharmaceutical care to best fit their needs. Recent advances in assistive technologies such as audio output and object recognition software can be used to ease the medication-taking process and effectively communicate important drug and safety information in a manner that can be understood by those with low vision. [94]
+
+Education
+The main aim of this study was to design, develop and test the instructional effectiveness of a web-based English vocabulary drill program developed for visually impaired middle school students. In this respect, the study focused on the educational affordances of the program and its contribution on VI students’ spelling and semantics knowledge in English vocabulary.[4]
+
+There are many problems with teaching and assessing impaired students in higher education, especially in technical science, where the knowledge is represented mostly by structural information like math formulae, charts, graphs, etc. Thus, there is a need to enable alternative descriptions of math formulae. Based on the research results, the tool for computer-aided interactive learning of mathematics adapted to the needs of the blind has been designed, implemented and deployed as a platform for on-site and online and distance learning.[24]
+
+Investigation for the acceptance of assistive technology (AT) by special education teachers is also a major research topic.[95]  Application of assistive technology, especially information technology in the education of blind and low-vision students from the perceptions of their teachers. Information technology enhances reading and writing skills, as well as communication with the world on an equal basis, thereby improving quality of life and facilitating the learning process.[125]
+
+
+
+
+
+
+
+
+
